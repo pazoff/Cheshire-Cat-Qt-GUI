@@ -1,0 +1,1 @@
+0.0.1 - implemented basic communication with the cat
