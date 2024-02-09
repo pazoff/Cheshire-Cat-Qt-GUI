@@ -1,0 +1,4 @@
+requests
+cheshire_cat_api
+PyQt5
+python-dotenv
